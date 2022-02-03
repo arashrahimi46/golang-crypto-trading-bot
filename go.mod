@@ -1,6 +1,6 @@
 module github.com/saniales/golang-crypto-trading-bot
 
-go 1.17
+go 1.16
 
 require (
 	github.com/adshao/go-binance/v2 v2.3.3
@@ -13,7 +13,6 @@ require (
 	github.com/fiore/kucoin-go v0.0.0-20190107105632-5a814c26befa
 	github.com/franela/goblin v0.0.0-20211003143422-0a4f594942bf // indirect
 	github.com/gofrs/uuid v4.2.0+incompatible
-	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/juju/errors v0.0.0-20210818161939-5560c4c073ff
 	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect
 	github.com/klauspost/compress v1.14.1 // indirect
@@ -31,7 +30,6 @@ require (
 	github.com/sourcegraph/jsonrpc2 v0.1.0 // indirect
 	github.com/spf13/cobra v1.3.0
 	github.com/thebotguys/golang-bittrex-api v0.0.0-20210125125813-27a8629619aa
-	github.com/toorop/go-bittrex v0.0.4
 	github.com/ugorji/go v1.2.6 // indirect
 	github.com/valyala/fasthttp v1.32.0 // indirect
 	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce // indirect
