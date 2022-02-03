@@ -5,7 +5,7 @@ import (
 
 	"github.com/gofrs/uuid"
 	"github.com/juju/errors"
-	"github.com/saniales/golang-crypto-trading-bot/environment"
+	"github.com/arashrahimi46/golang-crypto-trading-bot/environment"
 	"github.com/shopspring/decimal"
 )
 

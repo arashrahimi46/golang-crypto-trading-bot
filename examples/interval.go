@@ -22,9 +22,9 @@ import (
 	"time"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/saniales/golang-crypto-trading-bot/environment"
-	"github.com/saniales/golang-crypto-trading-bot/exchanges"
-	"github.com/saniales/golang-crypto-trading-bot/strategies"
+	"github.com/arashrahimi46/golang-crypto-trading-bot/environment"
+	"github.com/arashrahimi46/golang-crypto-trading-bot/exchanges"
+	"github.com/arashrahimi46/golang-crypto-trading-bot/strategies"
 	"github.com/shomali11/slacker"
 	"github.com/sirupsen/logrus"
 	"github.com/slack-go/slack"

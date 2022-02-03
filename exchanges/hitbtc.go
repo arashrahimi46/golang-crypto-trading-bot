@@ -22,9 +22,9 @@ import (
 
 	"github.com/gofrs/uuid"
 
+	"github.com/arashrahimi46/golang-crypto-trading-bot/environment"
 	"github.com/juju/errors"
 	"github.com/saniales/go-hitbtc"
-	"github.com/saniales/golang-crypto-trading-bot/environment"
 	"github.com/shopspring/decimal"
 )
 

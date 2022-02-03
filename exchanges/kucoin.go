@@ -22,7 +22,7 @@ import (
 
 	"github.com/fiore/kucoin-go"
 	"github.com/fiore/kucoin-go/websocket"
-	"github.com/saniales/golang-crypto-trading-bot/environment"
+	"github.com/arashrahimi46/golang-crypto-trading-bot/environment"
 	"github.com/shopspring/decimal"
 )
 
